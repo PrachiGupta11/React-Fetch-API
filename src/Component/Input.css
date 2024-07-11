@@ -1,0 +1,25 @@
+#header{
+  background-color:#032b49;
+  text-align: center;
+  color:white;
+  font-family: sans-serif;
+  padding:25px;
+}
+#content{
+  text-align:center;
+  font-family:sans-serif;
+}
+#list{
+  text-align:center;
+}
+#list ul{
+  text-align:center;
+  display:inline-block;
+}
+li{
+  list-style-type:none;
+  border:2px solid black;
+  width:450px;
+  margin:10px;
+  padding:20px;
+}
